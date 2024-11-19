@@ -1,0 +1,30 @@
+solution:
+  cost: 418.0
+  expanded_nodes: 6
+  heuristic:
+    city_Arad: 366.0
+    city_Bucharest: 0.0
+    city_Craiova: 160.0
+    city_Drobeta: 242.0
+    city_Eforie: 161.0
+    city_Fagaras: 176.0
+    city_Giurgiu: 77.0
+    city_Hirsova: 151.0
+    city_Iasi: 226.0
+    city_Lugoj: 244.0
+    city_Mehadia: 241.0
+    city_Neamt: 234.0
+    city_Oradea: 380.0
+    city_Pitesti: 100.0
+    city_RimnicuVilcea: 193.0
+    city_Sibiu: 253.0
+    city_Timisoara: 329.0
+    city_Urziceni: 80.0
+    city_Vaslui: 199.0
+    city_Zerind: 374.0
+  path:
+  - Arad
+  - Sibiu
+  - RimnicuVilcea
+  - Pitesti
+  - Bucharest
